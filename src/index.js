@@ -24,3 +24,5 @@ if (xp <= 1000) {
 }
 
 console.log(nickname + "é um herói de classe: " + classe)
+
+// console.log(`${nickname} é um herói que de nível ${classe}!`) - alternativa que achei interessante, comentei para ficar no código, mas usei o formato mais simples a fim de cumprimento da atividade.
