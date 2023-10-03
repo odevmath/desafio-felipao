@@ -1,7 +1,7 @@
-<h1>Desafio do Felipão </h1>
-
-<h2>Primeiro desafio:</h2>
-<h3>Instruções para entrega</h3>>
+<h1>Desafio do Felipão</h1>
+<h2>Formação Lógica de Programação (DIO)</h2>
+<h3>Primeiro desafio:</h3>
+<h4>Instruções para entrega</h4>>
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
